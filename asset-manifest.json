@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/MangiareApp/static/css/main.149b8bd9.chunk.css",
+    "main.js": "/MangiareApp/static/js/main.af1706b4.chunk.js",
+    "main.js.map": "/MangiareApp/static/js/main.af1706b4.chunk.js.map",
+    "runtime-main.js": "/MangiareApp/static/js/runtime-main.993917b5.js",
+    "runtime-main.js.map": "/MangiareApp/static/js/runtime-main.993917b5.js.map",
+    "static/css/2.f65acde2.chunk.css": "/MangiareApp/static/css/2.f65acde2.chunk.css",
+    "static/js/2.dcacffae.chunk.js": "/MangiareApp/static/js/2.dcacffae.chunk.js",
+    "static/js/2.dcacffae.chunk.js.map": "/MangiareApp/static/js/2.dcacffae.chunk.js.map",
+    "index.html": "/MangiareApp/index.html",
+    "precache-manifest.f92883b328b099776d40e1729fce2a95.js": "/MangiareApp/precache-manifest.f92883b328b099776d40e1729fce2a95.js",
+    "service-worker.js": "/MangiareApp/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/MangiareApp/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.149b8bd9.chunk.css.map": "/MangiareApp/static/css/main.149b8bd9.chunk.css.map",
+    "static/js/2.dcacffae.chunk.js.LICENSE.txt": "/MangiareApp/static/js/2.dcacffae.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/MangiareApp/static/media/Food01.aee563e2.jpg",
+    "static/media/Food02.jpg": "/MangiareApp/static/media/Food02.b6a00b72.jpg",
+    "static/media/Food03.jpg": "/MangiareApp/static/media/Food03.5a94cd41.jpg",
+    "static/media/Food04.jpg": "/MangiareApp/static/media/Food04.efcc5fc0.jpg",
+    "static/media/Food05.jpg": "/MangiareApp/static/media/Food05.1a75a564.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.993917b5.js",
+    "static/css/2.f65acde2.chunk.css",
+    "static/js/2.dcacffae.chunk.js",
+    "static/css/main.149b8bd9.chunk.css",
+    "static/js/main.af1706b4.chunk.js"
+  ]
+}
